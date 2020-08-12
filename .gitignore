@@ -7,6 +7,16 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 
+# Папкм і файли які Git повинен ігнорити
+.vscode
+.intermediate
+.DS_Store
+.node_modules
+.env
+.build/
+*.psd
+
+
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
@@ -105,11 +115,3 @@ dist
 .tern-port
 
 
-# Папкм і файли які Git повинен ігнорити
-.vscode
-.intermediate
-.DS_Store
-.node_modules
-.env
-.build/
-*.psd
