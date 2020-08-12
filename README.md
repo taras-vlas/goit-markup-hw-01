@@ -7,4 +7,7 @@
 - на taras-vlas / goit-markup-hw-01 кнопка Add files створили .gitignore, комітимо.
 - на taras-vlas/goit-markup-hw-01 кнопка Code --> Open with GIThub Desktop.
 - в GIThub Desktop клонуємо.
-- відкриваємо в VSC і переносимо інші папки
+- відкриваємо в VSC і переносимо інші папки, вносимо інфу
+- в GIThub Desktop файли комітимо і Push.
+
+Див. з 53 хв. вебінар "Знакомство с Git и GitHub"
