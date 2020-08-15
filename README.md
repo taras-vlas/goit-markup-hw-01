@@ -11,3 +11,5 @@
 - в GIThub Desktop файли комітимо і Push.
 
 Див. з 53 хв. вебінар "Знакомство с Git и GitHub"
+
+- прикріплення Ccылки на рабочую страницу в шапку профиля: в репозитарії зправа About --> https://taras-vlas.github.io/goit-markup-hw-01/
